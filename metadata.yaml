@@ -30,6 +30,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/778
     wikipedia: http://en.wikipedia.org/wiki/Charles_Eliot_Norton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13583#The-Correspondence-of-Thomas-Carlyle-and-Ralph-Waldo-Emerson-1834-1872-Vol.-I
 gutenberg_issued: '2004-10-03'
 gutenberg_type: Text
 identifiers:
