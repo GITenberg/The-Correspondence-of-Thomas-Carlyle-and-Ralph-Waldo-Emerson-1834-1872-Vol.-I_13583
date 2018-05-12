@@ -1,0 +1,51 @@
+_repo: The-Correspondence-of-Thomas-Carlyle-and-Ralph-Waldo-Emerson-1834-1872-Vol.-I_13583
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Carlyle, Thomas
+    alias: Carlyle, T. (Thomas)
+    birthdate: 1795
+    deathdate: 1881
+    gutenberg_agent_id: '523'
+    url: http://www.gutenberg.org/2009/agents/523
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Carlyle
+  - agent_name: Emerson, Ralph Waldo
+    aliases:
+    - Emerson, R. W. (Ralph Waldo)
+    - Emerson, R. Waldo (Ralph Waldo)
+    - Emerson, Waldo
+    birthdate: 1803
+    deathdate: 1882
+    gutenberg_agent_id: '1071'
+    url: http://www.gutenberg.org/2009/agents/1071
+    wikipedia: http://en.wikipedia.org/wiki/Ralph_Waldo_Emerson
+  editor:
+    agent_name: Norton, Charles Eliot
+    birthdate: 1827
+    deathdate: 1908
+    gutenberg_agent_id: '778'
+    url: http://www.gutenberg.org/2009/agents/778
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Eliot_Norton
+description: ''
+gutenberg_issued: '2004-10-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13583'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Emerson, Ralph Waldo, 1803-1882 -- Correspondence'
+- !lcsh 'Carlyle, Thomas, 1795-1881 -- Correspondence'
+- !lcsh 'Authors, Scottish -- 19th century -- Correspondence'
+- !lcsh 'Historians -- Great Britain -- Correspondence'
+- !lcsh 'Authors, American -- 19th century -- Correspondence'
+- !lcc 'PS'
+- !lcc 'PR'
+title: The Correspondence of Thomas Carlyle and Ralph Waldo Emerson, 1834-1872, Vol.
+  I
+url: http://www.gutenberg.org/ebooks/13583
